@@ -3,3 +3,4 @@
 Patrik Michalik
 Jan Spirka
 Matej Magát
+Jozef Baca
