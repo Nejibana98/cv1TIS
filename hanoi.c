@@ -6,7 +6,7 @@ void hanoi(int n, int a, int b, int c)
     printf("kamen 1 z %d do %d\n", a, b);
   else
   {
-    hanoi(n - 1, a, b, c);
+    hanoi(n - 1, a, c, b);
     printf("kamen %d z %d do %d\n", n, a, b);
     hanoi(n - 1, c, b, a);
   }
